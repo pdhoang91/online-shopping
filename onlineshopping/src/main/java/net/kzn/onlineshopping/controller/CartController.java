@@ -17,6 +17,8 @@ public class CartController {
 
 	private final static Logger logger = LoggerFactory.getLogger(CartController.class);
 	
+	// i'm hoang pham
+	// wellcome to my project
 	@Autowired
 	private CartService cartService;
 	@RequestMapping("/show")
