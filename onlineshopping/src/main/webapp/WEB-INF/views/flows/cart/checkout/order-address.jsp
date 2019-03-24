@@ -44,8 +44,7 @@
 							class="form-horizontal"
 							id="billingForm"
 						>
-						
-							
+
 							<div class="form-group">
 								<label class="control-label col-md-4" for="addressLineOne">Address Line One</label>
 								<div class="col-md-8">
@@ -72,7 +71,7 @@
 									<sf:errors path="city" cssClass="help-block" element="em"/> 
 								</div>
 							</div>
-							
+
 							<div class="form-group">
 								<label class="control-label col-md-4" for="postalCode">Postal Code</label>
 								<div class="col-md-8">
@@ -81,7 +80,7 @@
 									<sf:errors path="postalCode" cssClass="help-block" element="em"/> 
 								</div>
 							</div>							
-						
+
 							<div class="form-group">
 								<label class="control-label col-md-4" for="state">State</label>
 								<div class="col-md-8">
@@ -99,8 +98,7 @@
 									<sf:errors path="country" cssClass="help-block" element="em"/> 
 								</div>
 							</div>
-							
-							
+
 							<div class="form-group">
 								<div class="col-md-offset-4 col-md-8">
 									<button type="submit" name="_eventId_saveAddress" class="btn btn-primary">
